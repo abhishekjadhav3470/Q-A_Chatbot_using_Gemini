@@ -1,1 +1,1 @@
-# Q-A_Chatbot_using_Gemini
+# QnA_Chatbot_using_Gemini
